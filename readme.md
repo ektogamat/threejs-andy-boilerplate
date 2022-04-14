@@ -20,7 +20,7 @@ Resources: [Threejs](https://threejs.org/), [WebGL](https://github.com/KhronosGr
 
 # Show, don't tell 
 Here you can see a video on how to use this
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qM6Ih_cC6Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/qM6Ih_cC6Gc" target="_blank"><img src="./static/youtube.png" width="100%"/></a>
 
 # Getting Started
 Download and install Node.js on your computer (https://nodejs.org/en/download/).
