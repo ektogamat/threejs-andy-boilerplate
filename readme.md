@@ -34,22 +34,24 @@ Run this command in your terminal to open a local server at localhost:8080
 npm run dev
 ```
 
+# Debug interface
+<img src="./static/debug.jpg" width="100%"/>
+You can enable a debug interface by getting the contents of "debug.js" file and place it in the end of the main file. This will give you some interface to change things like colors and light position, which can be very useful when you change the model to something else.
+
 # Some projects developed using this
-https://neotix.com.br/vitrine-virtual/
-https://rava-cycle-neotix.glitch.me/
-https://vitamine-se.glitch.me/
-https://neotix.com.br/promo_havaianas/
-https://realestate-neotix.vercel.app/
-https://windland-neotix.vercel.app/
-https://dna-chain.vercel.app/
-http://houses-neotix.vercel.app/
-https://fgr-implantacao.vercel.app/
-https://metaverse-event.vercel.app/
+- https://neotix.com.br/vitrine-virtual/
+- https://rava-cycle-neotix.glitch.me/
+- https://vitamine-se.glitch.me/
+- https://neotix.com.br/promo_havaianas/
+- https://realestate-neotix.vercel.app/
+- https://windland-neotix.vercel.app/
+- https://dna-chain.vercel.app/
+- http://houses-neotix.vercel.app/
+- https://fgr-implantacao.vercel.app/
+- https://metaverse-event.vercel.app/
 
 
 # Notes
 Would be really appreciated if you are willing to give me a star here on GitHub 🎉 or buy me a coffee ☕ https://www.buymeacoffee.com/andersonmancini. The money will be used to produce more content about threejs or to buy new courses.
 
-I plan to add more functionality to this over time, like the ability to use advanced controls, particle systems, etc.
-
-If you have any questions or somewhere I can do better, welcome to send an <a href="mailto:andersonmancini30@gmail.com">e-mail</a> to me 🙏
+I plan to add more functionality to this over time, like the ability to use advanced controls, particle systems, etc. If you have any questions or somewhere I can do better, welcome to send an <a href="mailto:andersonmancini30@gmail.com">e-mail</a> to me 🙏
