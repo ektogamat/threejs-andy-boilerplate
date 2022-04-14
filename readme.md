@@ -12,7 +12,7 @@ But why create another threejs boilerplate when there are already so many out th
 
 When I started, I had a hard time finding something simple and written in VanillaJS that would allow, with just a few lines of code, to import a model and have something functional on the screen. Also, most of the examples that exist in the threejs documentation need to be in this framework for them to work just by copying and pasting the code.
 
-So I decided to share this starter project that tries to make things a little easier. Visa uses a very basic setup of Node.js to make it easier to install project dependencies and also webpack to make development easier.
+So I decided to share this starter project that tries to make things a little easier. This uses a very basic setup of Node.js to make it easier to install project dependencies and also webpack to make development easier.
 
 I think this would be very useful for web developers, who are trying to get started with threejs. In the source file, which is all documented, you can understand the basic structure of a project in threejs.
 
@@ -20,6 +20,7 @@ Resources: [Threejs](https://threejs.org/), [WebGL](https://github.com/KhronosGr
 
 # Show, don't tell 
 Here you can see a video on how to use this
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qM6Ih_cC6Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Getting Started
 Download and install Node.js on your computer (https://nodejs.org/en/download/).
