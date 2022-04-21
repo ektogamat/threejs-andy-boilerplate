@@ -12,13 +12,13 @@ But why create another threejs boilerplate when there are already so many out th
 
 When I started, I had a hard time finding something simple and written in VanillaJS that would allow, with just a few lines of code, to import a model and have something functional on the screen. Also, most of the examples that exist in the threejs documentation need to be in this framework for them to work just by copying and pasting the code.
 
-So I decided to share this starter project that tries to make things a little easier. This uses a very basic setup of Node.js to make it easier to install project dependencies and also webpack to make development easier.
+So I decided to share this starter project that tries to make things a little easier. This uses a very basic setup of Node.js to make it easier to install project dependencies and also Vite to make development easier.
 
 I think this would be very useful for web developers, who are trying to get started with threejs. In the source file, which is all documented, you can understand the basic structure of a project in threejs.
 
-Resources: [Threejs](https://threejs.org/), [WebGL](https://github.com/KhronosGroup/WebGL), [webpack](https://webpack.js.org/) , [Babel](https://babeljs.io/ ), [ESLint](https://eslint.org/)
+Resources: [Threejs](https://threejs.org/), [WebGL](https://github.com/KhronosGroup/WebGL) and [vite](https://vitejs.dev/)
 
-# Show, don't tell 
+# Show, don't tell
 Here you can see a video on how to use this
 <a href="https://www.youtube.com/embed/qM6Ih_cC6Gc" target="_blank"><img src="./static/youtube.png" width="100%"/></a>
 
@@ -27,12 +27,12 @@ Download and install Node.js on your computer (https://nodejs.org/en/download/).
 
 Then, open VSCODE, drag the project folder to it. Open VSCODE terminal and install dependencies (you need to do this only in the first time)
 ```
-npm install
+yarn
 ```
 
 Run this command in your terminal to open a local server at localhost:8080
 ```
-npm run dev
+yarn dev
 ```
 
 # Debug interface
