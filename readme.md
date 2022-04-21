@@ -1,4 +1,4 @@
-# Ektogamat ThreeJS Boilerplate
+# Ektogamat ThreeJS Boilerplate on Vite
 <h4>by Anderson Mancini</h4>
 
 <p align="center">
